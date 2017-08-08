@@ -2,6 +2,9 @@
 
 This is a web app that is a color guessing game. 
 
+Play it at jashvaidya.github.io/Color-Guessing-Game 
+
+
 How to play: 
 
 The user must first take a look at the RGB value given.
