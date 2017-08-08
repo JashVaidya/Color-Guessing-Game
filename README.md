@@ -2,7 +2,7 @@
 
 This is a web app that is a color guessing game. 
 
-[CLICK TO PLAY](jashvaidya.github.io/Color-Guessing-Game) 
+[CLICK TO PLAY](https://jashvaidya.github.io/Color-Guessing-Game/) 
 
 
 How to play: 
